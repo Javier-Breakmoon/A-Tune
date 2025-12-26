@@ -17,8 +17,4 @@ Una aplicación moderna para escuchar estaciones de radio por internet de forma 
 
 ## 📸 Capturas de pantalla
 
-![A-Tune_1](https://github.com/user-attachments/assets/0446a4f5-6549-4d89-89ac-e83936db7168)
-
-![A-Tune_2](https://github.com/user-attachments/assets/537a4050-520c-4f6a-bc97-0960e2a2121a)
-
-![A-Tune_3](https://github.com/user-attachments/assets/a8006c36-62ea-4179-9055-7def0e8f0d6f)
+![A-Tune_1](https://github.com/user-attachments/assets/0446a4f5-6549-4d89-89ac-e83936db7168)  ![A-Tune_2](https://github.com/user-attachments/assets/537a4050-520c-4f6a-bc97-0960e2a2121a)  ![A-Tune_3](https://github.com/user-attachments/assets/a8006c36-62ea-4179-9055-7def0e8f0d6f)
