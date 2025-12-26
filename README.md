@@ -1,11 +1,24 @@
-# Sample Snack app
+Markdown
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+# 📻 Multiradio App - React Native
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+Una aplicación moderna para escuchar estaciones de radio por internet de forma gratuita. 
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## ✨ Características
+- **Streaming en vivo:** Reproducción fluida de emisoras online.
+- **Cero dependencias de servidor:** La app consume streams directamente y gestiona los recursos localmente.
+- **Interfaz Intuitiva:** Diseño limpio enfocado en la facilidad de uso.
+- **Optimización de Assets:** Iconos integrados para evitar consumo de datos extra.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## 🚀 Tecnologías utilizadas
+- **React Native** (Core)
+- **Expo AV** o **React Native Track Player** (según la que hayas usado para el audio)
+- **React Navigation** (para moverte entre pantallas)
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## 📸 Capturas de pantalla
+
+![A-Tune_1](https://github.com/user-attachments/assets/0446a4f5-6549-4d89-89ac-e83936db7168)
+
+![A-Tune_2](https://github.com/user-attachments/assets/537a4050-520c-4f6a-bc97-0960e2a2121a)
+
+![A-Tune_3](https://github.com/user-attachments/assets/a8006c36-62ea-4179-9055-7def0e8f0d6f)
